@@ -51,6 +51,12 @@ body {
     max-width: 600px;
     margin: 0 auto 1.5rem;
 }
+.price {
+  font-size: 1.5rem;
+  color: #ff5722; /* Warna oranye untuk menarik perhatian */
+  margin: 1rem 0;
+}
+
 
 .benefits {
     list-style: none;
