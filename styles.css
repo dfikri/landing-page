@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    color: #333;
+    line-height: 1.6;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.header p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #ffcc00;
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.service {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.service h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.service p {
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+}
+
+.benefits {
+    list-style: none;
+    padding: 0;
+}
+
+.benefits li {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+}
+
+.testimonials {
+    background-color: #f8f8f8;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.testimonials blockquote {
+    margin: 1rem auto;
+    max-width: 600px;
+    font-style: italic;
+    color: #555;
+}
+
+.testimonials cite {
+    display: block;
+    margin-top: 0.5rem;
+    color: #888;
+}
+
+.contact {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contact p {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
